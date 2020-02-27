@@ -88,9 +88,7 @@ h2 {
 }
 
 .main-title {
-	margin-top: 25vh;
 	text-align: center;
-	padding: 1em;
 }
 
 .main-title .text {
@@ -153,36 +151,36 @@ button:hover {
 .footer {
 	text-align: center;
 	color: #ffffff;
-	padding: 145px;
+	height: auto;
 }
 
 #Home {
-	padding: 170;
-	height: 100px;
-	  color: #ffffff;
+	padding: 160;
+	height: auto;
+	color: #ffffff;
 }
 
 #about {
-	padding: 170;
-	height: 100px;
+	padding: 160;
+	height: auto;
 	color: #ffffff;
 }
 
 #features {
-	padding: 170;
-	height: 100px;
+	padding: 160;
+	height: auto;
 	color: #ffffff;
 }
 
 #preformance {
-	padding: 170;
-	height: 100px;
+	padding: 160;
+	height: 100;
 	color: #ffffff;
 }
 
-#Team {
-	padding: 170;
-	height: 100px;
+#team {
+	padding: 160;
+	height: 100;
 	color: #ffffff;
 }
 
@@ -197,7 +195,6 @@ button:hover {
 }
 
 section {
-	height: 100vh;
 	justify-content: center;
 	z-index: 0;
 }
