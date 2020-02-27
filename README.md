@@ -3,7 +3,7 @@
 # Capsule 💊
 
 ``` 
-🎉 A package manager for iOS! (In Developement)
+🎉 A package manager for iOS! (In Development)
 ```
 
 </div>
