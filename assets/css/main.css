@@ -108,8 +108,8 @@ h2 {
 }
 
 #logo {
-	margin-right: 40px;
-	width: 60px;
+	margin-right: 20px;
+	width: 120px;
 	border-radius: 30%;
 	cursor: pointer;
 	transition: all 0.3s ease 0s;
