@@ -37,6 +37,7 @@ html {
 	font-family: "SF UI Display Medium";
 	scroll-behavior: smooth;
 	background-image: url(../images/background/Capsule_Icon5.png);
+	background-size: cover;
 }
 
 header {
@@ -109,7 +110,7 @@ h2 {
 
 #logo {
 	margin-right: 40px;
-	width: 60px;
+	width: 180px;
 	border-radius: 30%;
 	cursor: pointer;
 	transition: all 0.3s ease 0s;
@@ -151,5 +152,31 @@ button:hover {
 
 .footer {
 	text-align: center;
+	color: #ffffff;
+}
+
+#Home {
+	  height: 260px;
+	  color: #ffffff;
+}
+
+#about {
+	height: 260px;
+	color: #ffffff;
+}
+
+#features {
+	height: 260px;
+	color: #ffffff;
+}
+
+#preformance {
+	height: 260px;
+	color: #ffffff;
+}
+
+#Team {
+
+	height: 260px;
 	color: #ffffff;
 }
