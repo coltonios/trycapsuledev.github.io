@@ -1,0 +1,12 @@
+Origin: Capsule
+Label: Capsule
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: Capsule Package Manager (beta)
+
+SHA256:
+ 2d727a43a8d6783ab983d27e3d6eaad5207be276c49d7708285350cca936648f 508 Packages.bz2
+ 2b44dc43e65ce89e6e6ee1234205f4f1322dfc1ce23bced5416d9b84030d0fd9 512 Packages.xz
