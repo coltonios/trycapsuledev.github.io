@@ -1,0 +1,66 @@
+/** Black */
+@font-face {
+  font-family: "SF Display";
+  font-weight: 900;
+  src: url("https://sf.abarba.me/SF-UI-Display-Black.otf");
+}
+
+/** Bold */
+@font-face {
+  font-family: "SF Display";
+  font-weight: 700;
+  src: url("https://sf.abarba.me/SF-UI-Display-Bold.otf");
+}
+
+/** Light */
+@font-face {
+  font-family: "SF Display";
+  font-weight: 200;
+  src: url("https://sf.abarba.me/SF-UI-Display-Light.otf");
+}
+
+/** Medium */
+@font-face {
+  font-family: "SF Display";
+  font-weight: 500;
+  src: url("https://sf.abarba.me/SF-UI-Display-Medium.otf");
+}
+
+/** Regular */
+@font-face {
+  font-family: "SF Display";
+  font-weight: 400;
+  src: url("https://sf.abarba.me/SF-UI-Display-Regular.otf");
+}
+
+body {
+	font-family: "SF Display";
+	text-align: center;
+}
+
+.main-title {
+	text-align: center;
+	margin-top: 30vh;
+	display: inline-block;
+}
+
+.main-title .text {
+	float: right;
+}
+
+.main-title .text h1 {
+	font-size: 100px;
+	margin: 0;
+}
+
+.main-title .text h2 {
+	font-size: 25px;
+	color: #A3AAAE;
+}
+
+.main-title #logo {
+	width: 150px;
+	border-radius: 25px;
+	margin-right: 20px;
+	vertical-align: middle;
+}
