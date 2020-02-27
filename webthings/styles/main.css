@@ -1,4 +1,4 @@
-@media (max-width:100%) {
+@media only (max-width: 420px) {
 }
 
 @font-face {
