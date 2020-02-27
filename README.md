@@ -6,7 +6,7 @@ by [@c0dine](https://twitter.com/c0dine) , [@Thenatis1](https://twitter.com/Then
 [@NASAConfirmsD2](https://twitter.com/NASAConfirmsD2) , [@coltonios](https://twitter.com/coltonios) , <br/> 
 [@J3nRa1n](https://twitter.com/J3nRa1n)<br/>
 
-###[Discord](https://discordapp.com/invite/pE28QcS) <br/>
+[Discord](https://discordapp.com/invite/pE28QcS) <br/>
 
 
 
