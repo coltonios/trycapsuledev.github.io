@@ -8,5 +8,5 @@ Components: main
 Description: Capsule Package Manager (beta)
 
 SHA256:
- 2d727a43a8d6783ab983d27e3d6eaad5207be276c49d7708285350cca936648f 508 Packages.bz2
- 2b44dc43e65ce89e6e6ee1234205f4f1322dfc1ce23bced5416d9b84030d0fd9 512 Packages.xz
+ af4cbdf8a7a0b0e482da836392a83e5b6c2938c9087b6595986344d3e4aabbde 512 Packages.bz2
+ 87fb4b194f4e03dc704b13131fd2fe3b026f7514c3c0399af979d38011d3209f 516 Packages.xz
