@@ -153,30 +153,61 @@ button:hover {
 .footer {
 	text-align: center;
 	color: #ffffff;
+	padding: 145px;
 }
 
 #Home {
-	  height: 260px;
+	padding: 170;
+	height: 100px;
 	  color: #ffffff;
 }
 
 #about {
-	height: 260px;
+	padding: 170;
+	height: 100px;
 	color: #ffffff;
 }
 
 #features {
-	height: 260px;
+	padding: 170;
+	height: 100px;
 	color: #ffffff;
 }
 
 #preformance {
-	height: 260px;
+	padding: 170;
+	height: 100px;
 	color: #ffffff;
 }
 
 #Team {
-
-	height: 260px;
+	padding: 170;
+	height: 100px;
 	color: #ffffff;
+}
+
+.wrapHead {
+	width: 90%;
+	margin: 0 auto;
+	transition: all ease-in-out 0.5s;
+}
+
+.wrapHead.fixed-to-top {
+	width: 96%;
+}
+
+section {
+	height: 100vh;
+	justify-content: center;
+	z-index: 0;
+}
+
+section h1 {
+	align-content: center;
+	text-transform: capitalize;
+	text-shadow: 10px 10px 3px rgba(0, 0, 0, 0.2);
+}
+
+p {
+	text-transform: capitalize;
 }
