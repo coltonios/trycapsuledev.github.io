@@ -20,6 +20,9 @@ Contributors:
 - [@J3nRa1n](https://twitter.com/J3nRa1n)
 - [@pixeljellyfish](https://twitter.com/pixeljellyfish)<br/> 
 
+### Twitter
+[@try_capsule](https://twitter.com/try_capsule) <br/>
+
 ### Discord Server
 [Discord Invite Link](https://discordapp.com/invite/pE28QcS) <br/>
 
