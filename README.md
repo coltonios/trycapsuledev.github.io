@@ -24,6 +24,6 @@ Contributors:
 [Discord Invite Link](https://discordapp.com/invite/pE28QcS) <br/>
 
 ### bug tracker
-[capsule bugs] (https://github.com/trycapsuledev/Capsule-Bugs)
+[capsule bugs](https://github.com/trycapsuledev/Capsule-Bugs)<br/>
 
 
