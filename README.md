@@ -1,4 +1,4 @@
 # With repo
-This one has a test repo on it with.
-Add /repo to url to test.
+This one has a test repo on it.
+Add ```/repo``` to url to test.
 
