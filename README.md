@@ -1,4 +1,10 @@
+<div align="center">
+
+<img src="webthings/images/logo.png" width=70px>
+
 # Capsule
+
+</div>
 ### A package manager for iOS! (In Development)
 
 Capsule Package Manager for jailbroken devices!<br/>
